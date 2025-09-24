@@ -8,8 +8,6 @@
 
 **Skydash.NET** is a comprehensive and modern server monitoring dashboard. Built with a high-performance tech stack (Bun, ElysiaJS, Svelte), this application provides real-time visualization and in-depth control over vital server metrics, accessible directly from your browser.
 
-![Skydash.NET Screenshot](https://github.com/skydashnet/system-monitoring/db.png)
-
 ---
 
 ## ✨ Key Features
